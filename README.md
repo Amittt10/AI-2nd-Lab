@@ -1,1 +1,1 @@
-# AI-2nd-Lab
+# AI-Lab
